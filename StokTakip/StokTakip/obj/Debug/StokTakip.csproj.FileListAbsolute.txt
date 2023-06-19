@@ -1,0 +1,22 @@
+C:\Users\menes\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\menes\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\menes\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.AssemblyReference.cache
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\menes\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_12\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
